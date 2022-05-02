@@ -21,7 +21,30 @@ main{
 
 .titolo{
     font-size: 60px;
-    margin-bottom: 6px;
+    margin-bottom: 0px;
+}
+
+.autore{
+    color: #afafaf;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none; 
+	font-weight: bold;
+	color: #4ea0ff;
+}
+
+.data{
+    color: #afafaf;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.evidenziato{
+    background-color: #ffff00;
 }
 
 footer{
