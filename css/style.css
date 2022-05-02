@@ -10,11 +10,18 @@ header{
 }
 
 .logo{
-    width: 15%;
+    width: 300px;
+    margin-bottom: -140px;
+    margin-left: 20px;
 }
 
 main{
     margin: 10px;
+}
+
+.titolo{
+    font-size: 60px;
+    margin-bottom: 6px;
 }
 
 footer{
