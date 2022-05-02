@@ -62,4 +62,33 @@ tr{
 
 footer{
     margin: 10px;
+    font-weight: bold;
+    color: #8b8b8b;
 }
+
+#interesse_1 {
+    margin: 0px;
+    padding: 15px;
+    background-size: cover;
+    background-image: url(../img/img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: start;
+    text-align: left;
+    width: 200px;
+    height: 150px;
+    margin-bottom: 15px;
+  }
+
+  #interesse_2 {
+    margin: 0px;
+    padding: 15px;
+    background-size: cover;
+    background-image: url(../img/img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: start;
+    text-align: left;
+    width: 200px;
+    height: 150px;
+  }
