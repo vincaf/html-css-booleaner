@@ -1,5 +1,9 @@
+header{
+    margin: 0px;
+}
+
 #rettangolo{
-    margin: 0;
-    height: 200px;
-    background-image: url(/img/img/pattern.png);
+    height: 170px;
+    background-color: #4ea0ff;
+    background-image: url(../img/img/pattern.png);
 }
