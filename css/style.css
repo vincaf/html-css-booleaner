@@ -1,9 +1,22 @@
-header{
+body{
     margin: 0px;
 }
 
-#rettangolo{
-    height: 170px;
-    background-color: #4ea0ff;
+header{
     background-image: url(../img/img/pattern.png);
+    background-repeat: repeat;
+    background-color: #4ea0ff;
+    height: 175px;
+}
+
+.logo{
+    width: 15%;
+}
+
+main{
+    margin: 10px;
+}
+
+footer{
+    margin: 10px;
 }
