@@ -11,7 +11,7 @@ header{
 
 .logo{
     width: 300px;
-    margin-bottom: -140px;
+    margin-top: 70px;
     margin-left: 20px;
 }
 
@@ -47,9 +47,19 @@ a{
     background-color: #ffff00;
 }
 
+table{
+    width: 1200px;
+    border-spacing: 0;
+}
+
 th{
     background-color: #20a9e5;
     color: white;
+    text-align: left;
+}
+
+.text{
+    width: 50%;
 }
 
 tr{
